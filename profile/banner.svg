@@ -29,4 +29,5 @@
   <circle cx="948" cy="376" r="44" fill="#79c0ff"/>
   <rect x="1009" y="333" width="86" height="86" fill="none" stroke="#6e7681" stroke-width="2"/>
   <rect x="1112" y="332" width="88" height="88" fill="#4493f8"/>
+  <path d="M1008 316L1008 228A88 88 0 0 1 1096 316Z" fill="#1f6feb"/>
 </svg>
