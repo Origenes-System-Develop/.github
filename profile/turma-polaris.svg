@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" aria-label="Polaris">
-  <rect x="0" y="0" width="384" height="240" rx="20" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="198" viewBox="0 0 320 198" role="img" aria-label="Polaris">
+  <rect x="0" y="0" width="304" height="198" rx="18" fill="#161b22"/>
   <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
-    <text x="192" y="72" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">Polaris</text>
-    <text x="192" y="97" font-size="14" font-style="italic" fill="#8b949e" text-anchor="middle">3ºB · 2026</text>
-    <text x="192" y="148" font-size="17" fill="#e6edf3" text-anchor="middle">Projeto atual: <tspan font-weight="700">polar</tspan> (2026)</text>
-    <text x="192" y="174" font-size="17" fill="#e6edf3" text-anchor="middle">Anterior: <tspan font-weight="700">baronet</tspan> (2025)</text>
-    <rect x="127.5" y="192" width="129" height="30" rx="15" fill="#0d1117"/>
-    <circle cx="143.5" cy="207" r="4.5" fill="#3fb950"/>
-    <text x="156.5" y="212" font-size="13" fill="#e6edf3">Em andamento</text>
+    <text x="152" y="60" font-size="34" font-weight="700" fill="#e6edf3" text-anchor="middle">Polaris</text>
+    <text x="152" y="82" font-size="13" font-style="italic" fill="#8b949e" text-anchor="middle">3ºB · 2026</text>
+    <text x="152" y="122" font-size="16" fill="#e6edf3" text-anchor="middle">Projeto atual: <tspan font-weight="700">polar</tspan> (2026)</text>
+    <text x="152" y="144" font-size="16" fill="#e6edf3" text-anchor="middle">Anterior: <tspan font-weight="700">baronet</tspan> (2025)</text>
+    <rect x="93" y="158" width="118" height="26" rx="13" fill="#0d1117"/>
+    <circle cx="107" cy="171" r="4" fill="#3fb950"/>
+    <text x="119" y="175.5" font-size="12.5" fill="#e6edf3">Em andamento</text>
   </g>
 </svg>
