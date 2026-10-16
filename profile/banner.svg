@@ -1,43 +1,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Desenvolvimento de Sistemas - EE PEI Orígenes Lessa">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0a0e16"/>
-      <stop offset="0.55" stop-color="#0f1830"/>
-      <stop offset="1" stop-color="#1a1340"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#4493f8"/>
-      <stop offset="1" stop-color="#a371f7"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.2" cy="0.5" r="0.55">
-      <stop offset="0" stop-color="#4493f8" stop-opacity="0.32"/>
-      <stop offset="1" stop-color="#4493f8" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glow2" cx="0.92" cy="0.1" r="0.5">
-      <stop offset="0" stop-color="#a371f7" stop-opacity="0.28"/>
-      <stop offset="1" stop-color="#a371f7" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#ffffff" fill-opacity="0.08"/>
-    </pattern>
-  </defs>
-  <rect width="1280" height="320" rx="24" fill="url(#bg)"/>
-  <rect width="1280" height="320" rx="24" fill="url(#dots)"/>
-  <rect width="1280" height="320" rx="24" fill="url(#glow)"/>
-  <rect width="1280" height="320" rx="24" fill="url(#glow2)"/>
-  <text x="1230" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="250" font-weight="700" fill="#ffffff" fill-opacity="0.045" text-anchor="end">&lt;/&gt;</text>
-  <g transform="translate(96 66) scale(3.9)" fill="none">
+  <rect x="1" y="1" width="1278" height="318" rx="23" fill="#0d1117" stroke="#30363d" stroke-width="2"/>
+  <text x="1230" y="262" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="250" font-weight="700" fill="#e6edf3" fill-opacity="0.04" text-anchor="end">&lt;/&gt;</text>
+  <rect x="80" y="60" width="200" height="200" rx="28" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+  <g transform="translate(91.2 71.2) scale(3.7)" fill="none">
     <g stroke="#ffffff" stroke-width="4" stroke-linecap="round">
       <path d="M40 24A16 16 0 0 1 28.14 39.45"/>
       <path d="M24 40A16 16 0 0 1 8.55 28.14"/>
       <path d="M8 24A16 16 0 0 1 19.86 8.55"/>
     </g>
-    <circle cx="33.74" cy="11.31" r="3" fill="url(#accent)"/>
+    <circle cx="33.74" cy="11.31" r="3" fill="#4493f8"/>
   </g>
   <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
-    <text x="330" y="112" font-size="22" fill="#8fa3c7" letter-spacing="5">EE PEI ORÍGENES LESSA</text>
-    <text x="330" y="178" font-size="56" font-weight="700" fill="#ffffff">Desenvolvimento de Sistemas</text>
-    <rect x="332" y="200" width="200" height="5" rx="2.5" fill="url(#accent)"/>
-    <text x="330" y="252" font-size="24" fill="#b9c6e0">O legado do curso: projetos, TCCs e turmas de todos os anos</text>
+    <text x="330" y="128" font-size="22" fill="#8b949e" letter-spacing="5">EE PEI ORÍGENES LESSA</text>
+    <text x="330" y="192" font-size="56" font-weight="700" fill="#e6edf3">Desenvolvimento de Sistemas</text>
+    <rect x="332" y="214" width="200" height="5" rx="2.5" fill="#4493f8"/>
   </g>
 </svg>
