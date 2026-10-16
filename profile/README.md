@@ -133,7 +133,7 @@ Detalhes no [guia de contribuição](https://github.com/Origenes-System-Develop/
 
 ## 🔗 Links úteis
 
-| | |
+| Onde | Acesso |
 | --- | --- |
 | 📚 Repositórios | [Todos os projetos](https://github.com/orgs/Origenes-System-Develop/repositories) |
 | 🤝 Contribuir | [Guia de contribuição](https://github.com/Origenes-System-Develop/.github/blob/main/CONTRIBUTING.md) |
