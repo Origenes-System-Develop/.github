@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="240" viewBox="0 0 400 240" role="img" aria-label="EVA">
-  <rect x="16" y="0" width="384" height="240" rx="20" fill="#161b22"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="198" viewBox="0 0 320 198" role="img" aria-label="EVA">
+  <rect x="16" y="0" width="304" height="198" rx="18" fill="#161b22"/>
   <g font-family="system-ui,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif">
-    <text x="208" y="72" font-size="38" font-weight="700" fill="#e6edf3" text-anchor="middle">EVA</text>
-    <text x="208" y="97" font-size="14" font-style="italic" fill="#8b949e" text-anchor="middle">2ºB · 2026</text>
-    <text x="208" y="148" font-size="17" fill="#e6edf3" text-anchor="middle">Projeto atual: <tspan font-weight="700">em breve</tspan></text>
-    <text x="208" y="174" font-size="17" fill="#e6edf3" text-anchor="middle"><tspan font-weight="700">Primeiro projeto a caminho.</tspan></text>
-    <rect x="128" y="192" width="160" height="30" rx="15" fill="#0d1117"/>
-    <circle cx="144" cy="207" r="4.5" fill="#4493f8"/>
-    <text x="157" y="212" font-size="13" fill="#e6edf3">Primeiro projeto</text>
+    <text x="168" y="60" font-size="34" font-weight="700" fill="#e6edf3" text-anchor="middle">EVA</text>
+    <text x="168" y="82" font-size="13" font-style="italic" fill="#8b949e" text-anchor="middle">2ºB · 2026</text>
+    <text x="168" y="122" font-size="16" fill="#e6edf3" text-anchor="middle">Projeto atual: <tspan font-weight="700">em breve</tspan></text>
+    <text x="168" y="144" font-size="16" fill="#e6edf3" text-anchor="middle"><tspan font-weight="700">Primeiro projeto a caminho.</tspan></text>
+    <rect x="95" y="158" width="146" height="26" rx="13" fill="#0d1117"/>
+    <circle cx="109" cy="171" r="4" fill="#4493f8"/>
+    <text x="121" y="175.5" font-size="12.5" fill="#e6edf3">Primeiro projeto</text>
   </g>
 </svg>
